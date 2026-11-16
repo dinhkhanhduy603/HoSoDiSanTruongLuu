@@ -1,0 +1,8 @@
+{
+  "name": "Hồ sơ số Cụm di sản tư liệu làng Trường Lưu",
+  "description": "Hồ sơ số tra cứu, bảo tồn và hỏi đáp về Cụm di sản tư liệu làng Trường Lưu (Mộc bản trường học Phúc Giang, Hoàng Hoa sứ trình đồ, Văn bản Hán Nôm làng Trường Lưu).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

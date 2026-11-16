@@ -1,0 +1,545 @@
+{
+  "phienBan": "1.0",
+  "tenDuAn": "Hồ sơ số Cụm di sản tư liệu làng Trường Lưu",
+  "ghiChu": "Bộ dữ liệu tư liệu tổng hợp từ hồ sơ công bố công khai UNESCO MOWCAP và cổng thông tin di sản văn hóa Việt Nam / tỉnh Hà Tĩnh. Có thể tiếp tục bổ sung từng bản ghi chi tiết và tệp ảnh bản giảm kích thước trong thư mục anh_tulieu/.",
+  "cauTrucMau": {
+    "maBanGhi": "",
+    "khoiDiSan": "",
+    "loaiTuLieu": "",
+    "dublinCore": {
+      "title": "",
+      "creator": "",
+      "subject": "",
+      "description": "",
+      "publisher": "",
+      "contributor": "",
+      "date": "",
+      "type": "",
+      "format": "",
+      "identifier": "",
+      "source": "",
+      "language": "",
+      "relation": "",
+      "coverage": "",
+      "rights": ""
+    },
+    "boSung": {
+      "noiLuuGiuHienNay": "",
+      "noiLuuGiuTaiThoiDiemTuLieu": "",
+      "loaiBanDangHienThi": "",
+      "tinhTrangBanGoc": "",
+      "soDangKy": "",
+      "nguoiChoPhepCongBo": "",
+      "phamViDuocPhep": "",
+      "phanKhongCongBo": "",
+      "mucKiemChung": "Chưa kiểm chứng"
+    },
+    "nguoiDangLuuGiu": {
+      "hoTen": "",
+      "vaiTro": "",
+      "donViHoacDiaChi": "",
+      "ghiChuLienHe": ""
+    },
+    "phienAm": {
+      "noiDung": "",
+      "mucKiemChung": "Chưa kiểm chứng",
+      "nguoiKiem": "",
+      "ngayKiem": ""
+    },
+    "dichNghia": {
+      "noiDung": "",
+      "mucKiemChung": "Chưa kiểm chứng",
+      "nguoiKiem": "",
+      "ngayKiem": ""
+    },
+    "hinhAnh": []
+  },
+  "banGhi": [
+    {
+      "maBanGhi": "TL-PG-001",
+      "khoiDiSan": "Mộc bản trường học Phúc Giang",
+      "loaiTuLieu": "Mộc bản",
+      "dublinCore": {
+        "title": "Mộc bản bộ sách Tính lý toản yếu đại toàn",
+        "creator": "Nguyễn Huy Oánh và các nhà giáo dòng họ Nguyễn Huy",
+        "subject": "Giáo dục Nho học; Triết học Tống - Minh; Mộc bản trường học Phúc Giang",
+        "description": "Các ván khắc gỗ thuộc bộ sách giáo khoa Tính lý toản yếu đại toàn (biên soạn, tóm tắt và hiệu đính từ Tính lý đại toàn), thuộc khối 379–383 mộc bản Trường học Phúc Giang được UNESCO MOWCAP ghi danh tháng 5/2016.",
+        "publisher": "Trường học Phúc Giang / Thư viện Phúc Giang",
+        "contributor": "Thợ khắc mộc bản dòng họ Nguyễn Huy và làng Trường Lưu",
+        "date": "1758 (thế kỷ XVIII)",
+        "type": "Mộc bản khắc chữ Hán ngược",
+        "format": "Ván khắc trên gỗ cây thị lâu năm",
+        "identifier": "TL-PG-001",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2016) & Cục Di sản văn hóa",
+        "language": "Chữ Hán (khắc ngược), chữ Nôm",
+        "relation": "Mộc bản Ngũ kinh toản yếu đại toàn (TL-PG-002); Mộc bản Thư viện quy lệ (TL-PG-003)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Thế kỷ XVIII – đầu thế kỷ XX",
+        "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy và hệ thống di sản công nhận UNESCO MOWCAP"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Thư viện Phúc Giang, làng Trường Lưu (tổng Lai Thạch, huyện La Sơn xưa)",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Còn bảo tồn trong khối 379–383 bản gỗ thị tại Trường Lưu",
+        "soDangKy": "Chưa cập nhật số kiểm kê từng ván (cần đối chiếu sổ kiểm kê hiện vật)",
+        "nguoiChoPhepCongBo": "Thông tin công bố công khai từ hồ sơ UNESCO MOWCAP & dòng họ Nguyễn Huy",
+        "phamViDuocPhep": "Công bố thông tin thư mục và tóm tắt học thuật phục vụ nghiên cứu, giáo dục",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp chi tiết toàn bộ mặt khắc ván và vị trí cất giữ chi tiết",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ Nguyễn Huy làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản và gìn giữ khối mộc bản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Liên hệ qua Ban quản lý di tích hoặc đại diện dòng họ khi cần đối chiếu bản gốc"
+      },
+      "phienAm": {
+        "noiDung": "Nhan đề chữ Hán trên mộc bản: 性理纂要大全 (Tính lý toản yếu đại toàn). Văn bản khắc toàn văn từng ván chưa được nhập vào hồ sơ.",
+        "mucKiemChung": "Đang đối chiếu",
+        "nguoiKiem": "Tổng hợp theo hồ sơ công bố di sản",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Bản tóm tắt tinh yếu bộ Tính lý đại toàn dùng làm giáo trình giảng dạy Nho học tại Trường học Phúc Giang. Bản dịch chi tiết từng trang khắc chưa được nạp.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Mộc bản.jpg",
+          "duongDan": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu khối Mộc bản trường học Phúc Giang",
+          "nguon": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-PG-002",
+      "khoiDiSan": "Mộc bản trường học Phúc Giang",
+      "loaiTuLieu": "Mộc bản",
+      "dublinCore": {
+        "title": "Mộc bản bộ sách Ngũ kinh toản yếu đại toàn",
+        "creator": "Nguyễn Huy Oánh cùng các nhà giáo dòng họ Nguyễn Huy; Phan Huy Cận viết lời tựa",
+        "subject": "Ngũ kinh; Kinh Dịch; Kinh Thư; Kinh Thi; Kinh Lễ; Kinh Xuân Thu; Giáo dục thế kỷ XVIII",
+        "description": "Bộ mộc bản khắc in phần san định và tóm lược từ Ngũ kinh đại toàn (gồm Kinh Dịch, Kinh Thư, Kinh Thi, Kinh Lễ, Kinh Xuân Thu), có lời tựa do danh nhân Phan Huy Cận viết năm Cảnh Hưng thứ 19 (1758).",
+        "publisher": "Trường học Phúc Giang / Thư viện Phúc Giang",
+        "contributor": "Phan Huy Cận (viết tựa); Thợ khắc ván Trường Lưu",
+        "date": "1758 (niên hiệu Cảnh Hưng)",
+        "type": "Mộc bản khắc chữ Hán ngược",
+        "format": "Ván khắc gỗ thị trong tổng số 3 tập sách (12 quyển) của khối Mộc bản Phúc Giang",
+        "identifier": "TL-PG-002",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2016) & Cổng thông tin tỉnh Hà Tĩnh",
+        "language": "Chữ Hán",
+        "relation": "Mộc bản Tính lý toản yếu đại toàn (TL-PG-001); Mộc bản Thư viện quy lệ (TL-PG-003)",
+        "coverage": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh; Nửa cuối thế kỷ XVIII",
+        "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Thư viện Phúc Giang, làng Trường Lưu",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Bảo tồn tại không gian lưu giữ dòng họ Nguyễn Huy",
+        "soDangKy": "Chưa cập nhật số kiểm kê từng ván",
+        "nguoiChoPhepCongBo": "Thông tin công bố công khai từ hồ sơ UNESCO MOWCAP & Cục Di sản văn hóa",
+        "phamViDuocPhep": "Công bố thông tin mô tả phục vụ học tập, tra cứu công cộng",
+        "phanKhongCongBo": "Chưa công bố toàn văn hình ảnh từng mặt khắc",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ Nguyễn Huy làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản di sản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Tiếp nhận tra cứu gián tiếp qua hồ sơ số để bảo vệ bề mặt gỗ thị cổ"
+      },
+      "phienAm": {
+        "noiDung": "Nhan đề chữ Hán: 五經纂要大全 (Ngũ kinh toản yếu đại toàn). Văn bản khắc chi tiết từng ván chưa được nhập.",
+        "mucKiemChung": "Đang đối chiếu",
+        "nguoiKiem": "Tổng hợp theo hồ sơ công bố di sản",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Bộ sách tóm yếu Ngũ kinh do Thám hoa Nguyễn Huy Oánh và các danh nho Trường Lưu biên soạn phục vụ dạy học. Bản dịch từng ván chưa được nạp.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Mộc bản.jpg",
+          "duongDan": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu khối Mộc bản trường học Phúc Giang",
+          "nguon": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-PG-003",
+      "khoiDiSan": "Mộc bản trường học Phúc Giang",
+      "loaiTuLieu": "Mộc bản",
+      "dublinCore": {
+        "title": "Mộc bản Thư viện quy lệ (Nội quy Trường học & Thư viện Phúc Giang)",
+        "creator": "Nguyễn Huy Oánh và các nhà giáo dòng họ Nguyễn Huy",
+        "subject": "Nội quy thư viện; Kỷ luật học đường; Quản lý sách vở; Giáo dục Việt Nam thế kỷ XVIII",
+        "description": "Ván khắc ghi chép quy chế hoạt động của Thư viện Phúc Giang (Trường học Phúc Giang), quy định rõ nề nếp giảng học, kỷ luật học tập và cách thức giữ gìn, cho mượn sách vở trong trường.",
+        "publisher": "Thư viện Phúc Giang",
+        "contributor": "Thợ khắc ván Trường Lưu",
+        "date": "Thế kỷ XVIII (giai đoạn 1758–1788)",
+        "type": "Mộc bản quy chế giáo dục",
+        "format": "Ván khắc gỗ thị",
+        "identifier": "TL-PG-003",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2016) & Cục Di sản văn hóa",
+        "language": "Chữ Hán",
+        "relation": "Mộc bản Tính lý toản yếu đại toàn (TL-PG-001); Mộc bản Ngũ kinh toản yếu đại toàn (TL-PG-002)",
+        "coverage": "Trường học Phúc Giang, làng Trường Lưu, tỉnh Hà Tĩnh",
+        "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Thư viện Phúc Giang, làng Trường Lưu",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Bảo quản trong khối mộc bản Trường học Phúc Giang",
+        "soDangKy": "Chưa cập nhật số kiểm kê từng ván",
+        "nguoiChoPhepCongBo": "Thông tin công bố công khai từ hồ sơ UNESCO MOWCAP",
+        "phamViDuocPhep": "Tra cứu học thuật và giới thiệu di sản giáo dục",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp cận cảnh và bản rập gốc",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ Nguyễn Huy làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản di sản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Liên hệ qua Ban quản lý di tích làng Trường Lưu"
+      },
+      "phienAm": {
+        "noiDung": "Nhan đề chữ Hán: 書院規例 (Thư viện quy lệ). Nội dung chi tiết từng điều khoản khắc trên mộc bản chưa được nạp vào hệ thống.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Quy lệ về quản lý thư viện và kỷ luật học tập tại Trường học Phúc Giang. Bản dịch toàn văn các điều lệ chưa được nạp.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Mộc bản.jpg",
+          "duongDan": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Mộc bản.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu khối Mộc bản trường học Phúc Giang",
+          "nguon": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-HH-001",
+      "khoiDiSan": "Hoàng Hoa sứ trình đồ",
+      "loaiTuLieu": "Tập bản đồ & Du ký đi sứ",
+      "dublinCore": {
+        "title": "Hoàng Hoa sứ trình đồ (Bản sao năm 1887 từ nguyên bản thế kỷ XVIII)",
+        "creator": "Nguyễn Huy Oánh (biên soạn, hiệu đính 1765–1768)",
+        "subject": "Đi sứ Trung Hoa; Bản đồ hành trình; Ngoại giao Đại Việt – nhà Thanh; Dịch trạm; Địa lý lịch sử",
+        "description": "Tập bản đồ vẽ tay bằng 3 màu kết hợp ghi chép chữ Hán mô tả chi tiết lộ trình đường thủy và đường bộ của sứ bộ Đại Việt đi Yên Kinh (Bắc Kinh), ghi rõ dịch trạm, thời gian, khoảng cách, địa hình, nghi lễ ngoại giao và danh thắng. Được UNESCO MOWCAP ghi danh ngày 30/5/2018 tại Gwangju, Hàn Quốc.",
+        "publisher": "Sách chép tay dòng họ Nguyễn Huy",
+        "contributor": "Nguyễn Huy Triển (hậu duệ đời thứ 5, sao chép lại vào tháng 2/1887 từ bản gốc)",
+        "date": "Biên soạn 1765–1768; Bản hiện tại sao chép tháng 2/1887",
+        "type": "Bản đồ viết tay và ghi chép hành trình trên giấy dó",
+        "format": "Sách gồm 7 phần, phần chính bản đồ gồm 204 trang; kích thước dài 30 cm × rộng 20 cm × dày 2 cm",
+        "identifier": "TL-HH-001",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2018) & Bộ Văn hóa, Thể thao và Du lịch",
+        "language": "Chữ Hán",
+        "relation": "Khối Văn bản Hán Nôm làng Trường Lưu; Tư liệu đi sứ của Chánh sứ Nguyễn Huy Oánh (1766–1767)",
+        "coverage": "Lộ trình từ biên giới Việt – Trung qua các châu, phủ, huyện, dịch trạm tới Bắc Kinh; Thế kỷ XVIII – XIX",
+        "rights": "Thuộc sở hữu và bảo quản của hậu duệ dòng họ Nguyễn Huy tại làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Tư gia hậu duệ dòng họ Nguyễn Huy (gia đình GS.VS Nguyễn Huy Mỹ), làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Dòng họ Nguyễn Huy, làng Trường Lưu, Can Lộc, Hà Tĩnh",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Bản sao cổ năm 1887 bằng giấy dó còn nguyên vẹn 7 phần với 204 trang bản đồ chính",
+        "soDangKy": "Chưa cập nhật số đăng ký cá biệt ngoài hồ sơ UNESCO MOWCAP 2018",
+        "nguoiChoPhepCongBo": "Hậu duệ dòng họ Nguyễn Huy (Nguyễn Huy Mỹ) & hồ sơ công bố UNESCO MOWCAP",
+        "phamViDuocPhep": "Công bố thông tin thư mục, kích thước, lịch sử biên soạn và tóm tắt nội dung",
+        "phanKhongCongBo": "Chưa công bố trọn bộ 204 trang ảnh quét độ phân giải cao",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện hậu duệ dòng họ Nguyễn Huy (GS.VS Nguyễn Huy Mỹ)",
+        "vaiTro": "Chủ sở hữu và người trực tiếp bảo quản bản chép tay",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Người dùng xem bản số hóa và thông tin hồ sơ số để hạn chế mở lật bản giấy dó cổ"
+      },
+      "phienAm": {
+        "noiDung": "Nhan đề chữ Hán: 皇華使程圖 (Hoàng Hoa sứ trình đồ). Phiên âm chi tiết từng trang bản đồ và chú thích dịch trạm chưa được nhập vào tệp dữ liệu.",
+        "mucKiemChung": "Đang đối chiếu",
+        "nguoiKiem": "Tổng hợp theo hồ sơ công bố di sản",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Bản đồ hành trình đi sứ Trung Hoa của sứ thần Đại Việt thế kỷ XVIII. Bản dịch nghĩa đầy đủ 7 phần chưa được nhập vào dữ liệu.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Hoàng Hoa sứ trình đồ.jpg",
+          "duongDan": "/anh_tulieu/Hoàng Hoa sứ trình đồ.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Hoàng Hoa sứ trình đồ.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu Hoàng Hoa sứ trình đồ",
+          "nguon": "Tư gia hậu duệ dòng họ Nguyễn Huy (gia đình GS.VS Nguyễn Huy Mỹ), làng Trường Lưu",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-HN-001",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Sắc phong",
+      "dublinCore": {
+        "title": "Nhóm 26 đạo sắc phong gốc thời Hậu Lê và triều Nguyễn tại làng Trường Lưu (1689–1943)",
+        "creator": "Triều đình Hậu Lê và triều đình nhà Nguyễn",
+        "subject": "Sắc phong; Phong thần; Ban mỹ tự; Ban tước; Phong chức; Làng Trường Lưu",
+        "description": "Tập hợp 26 đạo sắc phong nguyên gốc ban từ năm 1689 đến năm 1943 nhằm tôn vinh, phong thần, ban mỹ tự, ban tước và phong chức cho các nhân vật có công tại làng Trường Lưu. Thuộc bộ sưu tập 48 tư liệu được UNESCO MOWCAP ghi danh ngày 26/11/2022.",
+        "publisher": "Triều đình phong kiến Việt Nam (thời Hậu Lê và thời Nguyễn)",
+        "contributor": "GS.VS Nguyễn Huy Mỹ và nhóm lập hồ sơ cùng các dòng họ tại Trường Lưu",
+        "date": "1689–1943",
+        "type": "Sắc phong gốc viết tay trên giấy dó cổ",
+        "format": "26 đạo sắc phong độc bản",
+        "identifier": "TL-HN-001",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & TTXVN / Báo Hà Tĩnh",
+        "language": "Chữ Hán",
+        "relation": "Nhóm 19 văn bằng hành chính (TL-HN-002); Các bức trướng lụa làng Trường Lưu (TL-HN-003, TL-HN-004)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Giai đoạn 1689–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ Nguyễn Huy, Trần Văn, Hoàng tại làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (họ Nguyễn Huy, họ Trần Văn, họ Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Các nhà thờ họ và gia đình được ban sắc tại làng Trường Lưu",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Độc bản trên giấy dó cổ; bảo quản tại các dòng họ ở Trường Lưu",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng đạo sắc (gồm 26 đạo sắc trong bộ 48 tư liệu)",
+        "nguoiChoPhepCongBo": "Các dòng họ tại Trường Lưu và nhóm chủ trì hồ sơ (GS.VS Nguyễn Huy Mỹ)",
+        "phamViDuocPhep": "Công bố thông tin kiểm kê tổng hợp và niên đại 1689–1943",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp toàn bộ 26 đạo sắc gốc",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể lưu giữ và bảo quản sắc phong qua các thế hệ",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Phối hợp chuyên môn cùng Bảo tàng Hà Tĩnh và GS.VS Nguyễn Huy Mỹ"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm riêng từng đạo sắc trong số 26 sắc phong (1689–1943). Cần tách bản ghi từng đạo sắc khi bổ sung dữ liệu chi tiết.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch từng đạo sắc. Nội dung tổng quát ghi nhận việc phong thần, ban mỹ tự, ban tước và phong chức cho các cá nhân có công.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "26 đạo sắc phong & văn tự.jpg",
+          "duongDan": "/anh_tulieu/26 đạo sắc phong & văn tự.jpg",
+          "duongDanToanTrang": "/anh_tulieu/26 đạo sắc phong & văn tự.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu nhóm 26 đạo sắc phong và văn tự làng Trường Lưu",
+          "nguon": "Tư liệu lưu trữ tại làng Trường Lưu",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-HN-002",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Văn bản hành chính",
+      "dublinCore": {
+        "title": "Nhóm 19 văn bằng, văn bản hành chính làng Trường Lưu thời Nguyễn (1803–1943)",
+        "creator": "Chính quyền địa phương các cấp dưới thời nhà Nguyễn",
+        "subject": "Hành chính địa phương; Văn bằng; Đời sống làng xã; Trường Lưu; Thời Nguyễn",
+        "description": "Gồm 19 văn bằng và văn bản hành chính bằng chữ Hán và chữ Nôm do chính quyền địa phương các cấp thời Nguyễn cấp hoặc gửi cho người dân làng Trường Lưu trong giai đoạn 1803–1943, phản ánh sinh hoạt hành chính và xã hội làng xã.",
+        "publisher": "Chính quyền địa phương các cấp thời nhà Nguyễn",
+        "contributor": "Các dòng họ tại Trường Lưu; GS.VS Nguyễn Huy Mỹ sưu tầm, lập hồ sơ",
+        "date": "1803–1943",
+        "type": "Văn bằng và văn bản hành chính viết tay",
+        "format": "19 văn bản độc bản trên giấy dó cổ",
+        "identifier": "TL-HN-002",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & TTXVN",
+        "language": "Chữ Hán và chữ Nôm",
+        "relation": "Nhóm 26 sắc phong (TL-HN-001); Các bức trướng lụa Trường Lưu (TL-HN-003, TL-HN-004)",
+        "coverage": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh; Giai đoạn 1803–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Độc bản trên giấy dó cổ",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng văn bản trong nhóm 19 văn bản",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
+        "phamViDuocPhep": "Công bố thông tin kiểm kê thành phần nhóm tư liệu",
+        "phanKhongCongBo": "Chưa công bố ảnh từng trang văn bằng",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản tư liệu dòng họ và làng xã",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể bổ sung từng bản ghi đơn lẻ cho mỗi văn bằng khi có ảnh số hóa"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm chi tiết của 19 văn bản hành chính (1803–1943).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng văn bản hành chính.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Văn bản hành chính.jpg",
+          "duongDan": "/anh_tulieu/Văn bản hành chính.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Văn bản hành chính.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu nhóm 19 văn bằng, văn bản hành chính làng Trường Lưu",
+          "nguon": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-HN-003",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Trướng lụa",
+      "dublinCore": {
+        "title": "Bức trướng mừng thọ bà Phan Thị Trừu nhân dịp thọ 80 tuổi",
+        "creator": "Người tặng trướng và nghệ nhân dệt/thêu chữ Hán tại địa phương",
+        "subject": "Mừng thọ phụ nữ; Vai trò phụ nữ; Văn hóa gia đình; Bức trướng lụa; Trường Lưu",
+        "description": "Một trong 3 bức trướng bằng lụa thuộc bộ sưu tập Văn bản Hán Nôm làng Trường Lưu (UNESCO MOWCAP 2022), nội dung mừng thọ bà Phan Thị Trừu nhân dịp 80 tuổi, mang giá trị nghiên cứu văn hóa, gia đình và ghi nhận vị thế người phụ nữ xưa.",
+        "publisher": "Tư liệu gia tộc tại làng Trường Lưu",
+        "contributor": "GS.VS Nguyễn Huy Mỹ & Bảo tàng Hà Tĩnh phối hợp lập hồ sơ khoa học",
+        "date": "Trong khung niên đại bộ sưu tập 1689–1943 (năm cụ thể cần bổ sung khi đối chiếu ảnh trướng)",
+        "type": "Trướng lụa dệt hoặc thêu chữ Hán",
+        "format": "Trướng lụa khổ lớn (thuộc nhóm 3 bức trướng kích thước 97×197 cm, 121×177 cm, 70×127 cm)",
+        "identifier": "TL-HN-003",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), TTXVN & Báo Thanh Niên",
+        "language": "Chữ Hán",
+        "relation": "Bức trướng mừng thọ ông Nguyễn Huy Cầu và chúc mừng Tiến sĩ Nguyễn Huy Quýnh (TL-HN-004)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "rights": "Thuộc quyền bảo quản của dòng họ tại làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Dòng họ tại làng Trường Lưu / Bảo quản phối hợp cùng Bảo tàng Hà Tĩnh",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Gia tộc tại làng Trường Lưu, Can Lộc, Hà Tĩnh",
+        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "tinhTrangBanGoc": "Hiện vật trướng lụa cổ thuộc nhóm 3 bức trướng quý trong 48 tư liệu Hán Nôm",
+        "soDangKy": "Chưa cập nhật số đăng ký cá biệt",
+        "nguoiChoPhepCongBo": "Thông tin công bố từ hồ sơ di sản UNESCO MOWCAP 2022",
+        "phamViDuocPhep": "Công bố thông tin mô tả phục vụ nghiên cứu văn hóa và giáo dục",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp toàn trang bức trướng",
+        "mucKiemChung": "Đang đối chiếu"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ tại làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản hiện vật trướng lụa",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Cần bổ sung chính xác kích thước tương ứng trong 3 kích thước (97×197, 121×177, 70×127 cm) khi nạp ảnh"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm toàn văn chữ Hán thêu/viết trên bức trướng mừng thọ bà Phan Thị Trừu.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa chi tiết bức trướng mừng thọ bà Phan Thị Trừu (80 tuổi).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": [
+        {
+          "tenTep": "Bức trướng mừng thọ bà Phan Thị Trừu nhân dịp thọ 80 tuổi.jpg",
+          "duongDan": "/anh_tulieu/Bức trướng mừng thọ bà Phan Thị Trừu nhân dịp thọ 80 tuổi.jpg",
+          "duongDanToanTrang": "/anh_tulieu/Bức trướng mừng thọ bà Phan Thị Trừu nhân dịp thọ 80 tuổi.jpg",
+          "duongDanCanCanh": "",
+          "chuThich": "Ảnh tư liệu bức trướng mừng thọ bà Phan Thị Trừu nhân dịp thọ 80 tuổi",
+          "nguon": "Dòng họ tại làng Trường Lưu / Bảo quản phối hợp cùng Bảo tàng Hà Tĩnh",
+          "laBanGiamKichThuoc": true
+        }
+      ]
+    },
+    {
+      "maBanGhi": "TL-HN-004",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Trướng lụa",
+      "dublinCore": {
+        "title": "Bức trướng mừng thọ ông Nguyễn Huy Cầu (70 tuổi) và bức trướng chúc mừng Tiến sĩ Nguyễn Huy Quýnh",
+        "creator": "Cộng đồng, thân hữu và học giới đương thời",
+        "subject": "Truyền thống khoa bảng; Tiến sĩ Nguyễn Huy Quýnh; Mừng thọ Nguyễn Huy Cầu; Trướng lụa",
+        "description": "Hai bức trướng lụa thuộc nhóm 3 bức trướng trong bộ 48 tư liệu Văn bản Hán Nôm làng Trường Lưu (UNESCO MOWCAP 2022), gồm bức trướng mừng thọ ông Nguyễn Huy Cầu dịp 70 tuổi và bức trướng chúc mừng Nguyễn Huy Quýnh đỗ Tiến sĩ.",
+        "publisher": "Tư liệu gia tộc dòng họ Nguyễn Huy tại Trường Lưu",
+        "contributor": "GS.VS Nguyễn Huy Mỹ & Bảo tàng Hà Tĩnh",
+        "date": "Trong khung niên đại bộ sưu tập 1689–1943",
+        "type": "Trướng lụa dệt hoặc thêu chữ Hán",
+        "format": "2 bức trướng lụa khổ lớn",
+        "identifier": "TL-HN-004",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & Báo Thanh Niên",
+        "language": "Chữ Hán",
+        "relation": "Bức trướng mừng thọ bà Phan Thị Trừu (TL-HN-003)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Gia tộc dòng họ Nguyễn Huy, làng Trường Lưu",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa (chưa đính kèm ảnh chụp giảm kích thước)",
+        "tinhTrangBanGoc": "Hiện vật trướng lụa cổ thuộc bộ 48 tư liệu UNESCO MOWCAP 2022",
+        "soDangKy": "Chưa cập nhật số đăng ký cá biệt",
+        "nguoiChoPhepCongBo": "Thông tin công bố từ hồ sơ UNESCO MOWCAP 2022 & đại diện dòng họ",
+        "phamViDuocPhep": "Công bố thông tin mô tả khoa học và giáo dục",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp toàn trang hai bức trướng",
+        "mucKiemChung": "Đang đối chiếu"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ Nguyễn Huy làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản hiện vật",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể tách thành 2 bản ghi riêng khi bổ sung ảnh số hóa từng bức trướng"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm toàn văn chữ Hán trên hai bức trướng.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa chi tiết hai bức trướng.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    }
+  ]
+}
