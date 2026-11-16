@@ -120,30 +120,6 @@ export default function App() {
     }
   };
 
-  const handleRecordUpdated = (updated: TuLieuRecord) => {
-    setSelectedRecord(updated);
-    setDiskDataset((prev) =>
-      prev
-        ? {
-            ...prev,
-            banGhi: prev.banGhi.map((r) =>
-              r.maBanGhi === updated.maBanGhi ? updated : r
-            ),
-          }
-        : prev
-    );
-    setLocalOverrideDataset((prev) =>
-      prev
-        ? {
-            ...prev,
-            banGhi: prev.banGhi.map((r) =>
-              r.maBanGhi === updated.maBanGhi ? updated : r
-            ),
-          }
-        : prev
-    );
-  };
-
   return (
     <div className="min-h-screen flex flex-col bg-[#FAF8F4] text-[#1C1917] pb-20 md:pb-0">
       <TopBar
@@ -212,7 +188,6 @@ export default function App() {
             }
             isTemplatePreview={isTemplatePreview}
             onBack={() => navigateTo('archive')}
-            onRecordUpdated={handleRecordUpdated}
           />
         )}
 

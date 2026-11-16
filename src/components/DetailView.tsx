@@ -1,10 +1,8 @@
-import { ChangeEvent, useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
   ArrowLeft,
   ExternalLink,
   ImageOff,
-  Trash2,
-  Upload,
   ZoomIn,
   ZoomOut,
 } from 'lucide-react';
@@ -21,40 +19,25 @@ interface DetailViewProps {
   record: TuLieuRecord;
   isTemplatePreview: boolean;
   onBack: () => void;
-  onRecordUpdated?: (updated: TuLieuRecord) => void;
 }
 
 export function DetailView({
   record,
   isTemplatePreview,
   onBack,
-  onRecordUpdated,
 }: DetailViewProps) {
   const [imageIndex, setImageIndex] = useState(0);
   const [isZoomed, setIsZoomed] = useState(false);
   const [imageLoadFailed, setImageLoadFailed] = useState(false);
 
-  // Image upload / attachment state
-  const [localPreviewDataUrl, setLocalPreviewDataUrl] = useState<string | null>(
-    null
-  );
-  const [isSavingImage, setIsSavingImage] = useState(false);
-  const [imageActionMsg, setImageActionMsg] = useState<string | null>(null);
-  const [imageActionError, setImageActionError] = useState<string | null>(null);
-  const [availableFiles, setAvailableFiles] = useState<string[]>([]);
-  const [selectedExistingFile, setSelectedExistingFile] = useState<string>('');
-  const localImgInputRef = useRef<HTMLInputElement | null>(null);
-
   const images = record.hinhAnh ?? [];
   const activeImage = images[imageIndex];
 
-  const rawImagePath = localPreviewDataUrl
-    ? localPreviewDataUrl
-    : activeImage
-      ? activeImage.duongDan ||
-        activeImage.duongDanToanTrang ||
-        activeImage.duongDanCanCanh
-      : '';
+  const rawImagePath = activeImage
+    ? activeImage.duongDan ||
+      activeImage.duongDanToanTrang ||
+      activeImage.duongDanCanCanh
+    : '';
 
   const activeImageSrc = toSafeImageUrl(rawImagePath);
 
@@ -66,155 +49,6 @@ export function DetailView({
   useEffect(() => {
     setImageLoadFailed(false);
   }, [activeImageSrc, imageIndex]);
-
-  const refreshAvailableFiles = () => {
-    fetch('/api/anh-tulieu')
-      .then((res) => (res.ok ? res.json() : { files: [] }))
-      .then((data) => {
-        if (Array.isArray(data.files)) {
-          setAvailableFiles(data.files);
-          const currentTenTep = record.hinhAnh?.[0]?.tenTep;
-          if (currentTenTep && data.files.includes(currentTenTep)) {
-            setSelectedExistingFile(currentTenTep);
-          } else if (
-            data.files.length > 0 &&
-            (!selectedExistingFile || !data.files.includes(selectedExistingFile))
-          ) {
-            setSelectedExistingFile(data.files[0]);
-          }
-        }
-      })
-      .catch(() => {
-        // Optional repository list
-      });
-  };
-
-  useEffect(() => {
-    refreshAvailableFiles();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [record.maBanGhi]);
-
-  const handleUploadLocalImage = (e: ChangeEvent<HTMLInputElement>) => {
-    setImageActionError(null);
-    setImageActionMsg(null);
-    const file = e.target.files?.[0];
-    if (!file) return;
-    const mime = file.type || 'image/jpeg';
-    const reader = new FileReader();
-    reader.onload = async () => {
-      if (typeof reader.result !== 'string') return;
-      const dataUrl = reader.result;
-      setLocalPreviewDataUrl(dataUrl);
-
-      if (!isTemplatePreview && record.maBanGhi) {
-        setIsSavingImage(true);
-        try {
-          const res = await fetch(
-            `/api/records/${encodeURIComponent(record.maBanGhi)}/image`,
-            {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({
-                fileName: file.name,
-                imageBase64: dataUrl,
-                mimeType: mime,
-              }),
-            }
-          );
-          const data = await res.json();
-          if (!res.ok) {
-            throw new Error(data.error || 'Không thể lưu ảnh vào hồ sơ.');
-          }
-          if (data.record && onRecordUpdated) {
-            onRecordUpdated(data.record);
-          }
-          if (data.fileName) {
-            setAvailableFiles((prev) =>
-              prev.includes(data.fileName)
-                ? prev
-                : [...prev, data.fileName].sort((a, b) => a.localeCompare(b, 'vi'))
-            );
-            setSelectedExistingFile(data.fileName);
-          }
-          setLocalPreviewDataUrl(null);
-          setImageIndex(0);
-          setImageActionMsg('Đã lưu ảnh vào hồ sơ tư liệu.');
-        } catch (err) {
-          setImageActionError(
-            err instanceof Error
-              ? err.message
-              : 'Đã hiển thị ảnh tạm thời nhưng chưa lưu được vào hồ sơ.'
-          );
-        } finally {
-          setIsSavingImage(false);
-        }
-      }
-    };
-    reader.readAsDataURL(file);
-    e.target.value = '';
-  };
-
-  const handleAttachExistingImage = async () => {
-    if (!selectedExistingFile || !record.maBanGhi || isTemplatePreview) return;
-    setImageActionError(null);
-    setImageActionMsg(null);
-    setIsSavingImage(true);
-    try {
-      const res = await fetch(
-        `/api/records/${encodeURIComponent(record.maBanGhi)}/image`,
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ existingFileName: selectedExistingFile }),
-        }
-      );
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'Không thể gắn ảnh vào hồ sơ.');
-      }
-      if (data.record && onRecordUpdated) {
-        onRecordUpdated(data.record);
-      }
-      setLocalPreviewDataUrl(null);
-      setImageIndex(0);
-      setImageActionMsg('Đã gắn ảnh vào hồ sơ tư liệu.');
-    } catch (err) {
-      setImageActionError(
-        err instanceof Error ? err.message : 'Không thể gắn ảnh lúc này.'
-      );
-    } finally {
-      setIsSavingImage(false);
-    }
-  };
-
-  const handleRemoveImage = async () => {
-    if (!record.maBanGhi || isTemplatePreview) return;
-    setImageActionError(null);
-    setImageActionMsg(null);
-    setIsSavingImage(true);
-    try {
-      const res = await fetch(
-        `/api/records/${encodeURIComponent(record.maBanGhi)}/image`,
-        { method: 'DELETE' }
-      );
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'Không thể gỡ ảnh khỏi hồ sơ.');
-      }
-      if (data.record && onRecordUpdated) {
-        onRecordUpdated(data.record);
-      }
-      setLocalPreviewDataUrl(null);
-      setImageIndex(0);
-      setImageActionMsg('Đã gỡ ảnh khỏi hồ sơ.');
-    } catch (err) {
-      setImageActionError(
-        err instanceof Error ? err.message : 'Không thể gỡ ảnh lúc này.'
-      );
-    } finally {
-      setIsSavingImage(false);
-    }
-  };
 
   const emptyFieldText = 'Chưa có dữ liệu';
 
@@ -342,12 +176,9 @@ export function DetailView({
                 <button
                   key={`${img.tenTep}-${idx}`}
                   type="button"
-                  onClick={() => {
-                    setLocalPreviewDataUrl(null);
-                    setImageIndex(idx);
-                  }}
+                  onClick={() => setImageIndex(idx)}
                   className={`min-h-[40px] px-3 py-1.5 text-sm rounded-lg border ${
-                    idx === imageIndex && !localPreviewDataUrl
+                    idx === imageIndex
                       ? 'bg-[#8C2D19] text-white border-[#8C2D19]'
                       : 'bg-[#FAF8F4] text-[#44403C] border-[#E2DDD3]'
                   }`}
@@ -357,90 +188,6 @@ export function DetailView({
               ))}
             </div>
           )}
-
-          {/* Image Upload & Existing Archive Image Picker + Gemini Hán Nôm Suggestion */}
-          <div className="pt-3 border-t border-[#E2DDD3] space-y-3">
-            {imageActionMsg && (
-              <p
-                role="status"
-                className="text-sm text-[#14532D] bg-[#ECFDF5] border border-[#BBF7D0] rounded-lg px-3 py-2"
-              >
-                {imageActionMsg}
-              </p>
-            )}
-            {imageActionError && (
-              <p
-                role="alert"
-                className="text-sm text-[#991B1B] bg-[#FEF2F2] border border-[#FECACA] rounded-lg px-3 py-2"
-              >
-                {imageActionError}
-              </p>
-            )}
-
-            <div className="flex flex-wrap items-center gap-2">
-              <input
-                ref={localImgInputRef}
-                type="file"
-                accept="image/*"
-                onChange={handleUploadLocalImage}
-                className="hidden"
-                aria-label="Tải ảnh tư liệu lên hồ sơ"
-              />
-              <button
-                type="button"
-                onClick={() => localImgInputRef.current?.click()}
-                disabled={isSavingImage}
-                className="min-h-[44px] px-3.5 py-2 text-sm font-medium text-[#1C1917] bg-[#FAF8F4] border border-[#D6CEBE] hover:bg-[#F2EFE8] disabled:opacity-60 rounded-lg inline-flex items-center gap-2"
-              >
-                <Upload className="w-4 h-4 shrink-0" aria-hidden="true" />
-                <span>
-                  {isSavingImage ? 'Đang lưu ảnh...' : 'Tải ảnh từ máy'}
-                </span>
-              </button>
-
-              {!isTemplatePreview && images.length > 0 && (
-                <button
-                  type="button"
-                  onClick={handleRemoveImage}
-                  disabled={isSavingImage}
-                  className="min-h-[44px] px-3 py-2 text-sm font-medium text-[#991B1B] bg-[#FAF8F4] border border-[#FECACA] hover:bg-[#FEF2F2] disabled:opacity-60 rounded-lg inline-flex items-center gap-1.5"
-                >
-                  <Trash2 className="w-4 h-4 shrink-0" aria-hidden="true" />
-                  <span>Gỡ ảnh</span>
-                </button>
-              )}
-            </div>
-
-            {!isTemplatePreview && availableFiles.length > 0 && (
-              <div className="pt-2 border-t border-[#E2DDD3] grid grid-cols-1 sm:grid-cols-[minmax(0,1fr)_auto] items-stretch sm:items-center gap-2 min-w-0">
-                <label htmlFor="existing-image-select" className="sr-only">
-                  Chọn ảnh có sẵn trong kho ảnh
-                </label>
-                <select
-                  id="existing-image-select"
-                  value={selectedExistingFile}
-                  title={selectedExistingFile}
-                  onFocus={refreshAvailableFiles}
-                  onChange={(e) => setSelectedExistingFile(e.target.value)}
-                  className="w-full min-w-0 max-w-full truncate min-h-[44px] px-3 py-2 text-sm bg-[#FAF8F4] border border-[#D6CEBE] rounded-lg text-[#1C1917] focus:outline-none focus:border-[#8C2D19]"
-                >
-                  {availableFiles.map((file) => (
-                    <option key={file} value={file}>
-                      {file}
-                    </option>
-                  ))}
-                </select>
-                <button
-                  type="button"
-                  onClick={handleAttachExistingImage}
-                  disabled={isSavingImage || !selectedExistingFile}
-                  className="shrink-0 min-h-[44px] px-4 py-2 text-sm font-medium text-[#1C1917] bg-[#F2EFE8] hover:bg-[#E7E1D5] border border-[#D6CEBE] disabled:opacity-60 rounded-lg whitespace-nowrap"
-                >
-                  Gắn ảnh này vào hồ sơ
-                </button>
-              </div>
-            )}
-          </div>
         </section>
 
         {/* Right: Phiên âm, Dịch nghĩa & Người lưu giữ */}
