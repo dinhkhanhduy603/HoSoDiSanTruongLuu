@@ -42,7 +42,7 @@ function makeSampleRecord(overrides: Partial<TuLieuRecord> = {}): TuLieuRecord {
 test('tulieu.json on disk is valid and covers all 3 Trường Lưu heritage blocks', () => {
   const raw = fs.readFileSync(path.resolve(process.cwd(), 'tulieu.json'), 'utf-8');
   const dataset = validateDataset(JSON.parse(raw));
-  assert.ok(dataset.banGhi.length >= 8);
+  assert.ok(dataset.banGhi.length >= 16);
   assert.equal(DUBLIN_CORE_FIELDS.length, 15);
   assert.equal(SUPPLEMENTAL_FIELDS.length, 9);
 
@@ -51,8 +51,11 @@ test('tulieu.json on disk is valid and covers all 3 Trường Lưu heritage bloc
   assert.ok(blocks.has('Hoàng Hoa sứ trình đồ'));
   assert.ok(blocks.has('Văn bản Hán Nôm làng Trường Lưu'));
 
+  const ids = new Set<string>();
   for (const r of dataset.banGhi) {
     assert.ok(r.maBanGhi.length > 0);
+    assert.ok(!ids.has(r.maBanGhi), `Duplicate maBanGhi: ${r.maBanGhi}`);
+    ids.add(r.maBanGhi);
     for (const f of DUBLIN_CORE_FIELDS) {
       assert.ok(f.key in r.dublinCore);
     }

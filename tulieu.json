@@ -73,7 +73,7 @@
         "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2016) & Cục Di sản văn hóa",
         "language": "Chữ Hán (khắc ngược), chữ Nôm",
         "relation": "Mộc bản Ngũ kinh toản yếu đại toàn (TL-PG-002); Mộc bản Thư viện quy lệ (TL-PG-003)",
-        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Thế kỷ XVIII – đầu thế kỷ XX",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Thế kỷ XVIII (1758–1788)",
         "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy và hệ thống di sản công nhận UNESCO MOWCAP"
       },
       "boSung": {
@@ -125,12 +125,12 @@
         "title": "Mộc bản bộ sách Ngũ kinh toản yếu đại toàn",
         "creator": "Nguyễn Huy Oánh cùng các nhà giáo dòng họ Nguyễn Huy; Phan Huy Cận viết lời tựa",
         "subject": "Ngũ kinh; Kinh Dịch; Kinh Thư; Kinh Thi; Kinh Lễ; Kinh Xuân Thu; Giáo dục thế kỷ XVIII",
-        "description": "Bộ mộc bản khắc in phần san định và tóm lược từ Ngũ kinh đại toàn (gồm Kinh Dịch, Kinh Thư, Kinh Thi, Kinh Lễ, Kinh Xuân Thu), có lời tựa do danh nhân Phan Huy Cận viết năm Cảnh Hưng thứ 19 (1758).",
+        "description": "Bộ mộc bản khắc in phần san định và tóm lược từ Ngũ kinh đại toàn (gồm Kinh Dịch, Kinh Thư, Kinh Thi, Kinh Lễ, Kinh Xuân Thu), có lời tựa viết tháng xuân năm Cảnh Hưng thứ 19 (1758) gắn với Thám hoa Nguyễn Huy Oánh.",
         "publisher": "Trường học Phúc Giang / Thư viện Phúc Giang",
         "contributor": "Phan Huy Cận (viết tựa); Thợ khắc ván Trường Lưu",
         "date": "1758 (niên hiệu Cảnh Hưng)",
         "type": "Mộc bản khắc chữ Hán ngược",
-        "format": "Ván khắc gỗ thị trong tổng số 3 tập sách (12 quyển) của khối Mộc bản Phúc Giang",
+        "format": "Ván khắc gỗ thị thuộc khối Mộc bản Trường học Phúc Giang",
         "identifier": "TL-PG-002",
         "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2016) & Cổng thông tin tỉnh Hà Tĩnh",
         "language": "Chữ Hán",
@@ -416,15 +416,6 @@
         "ngayKiem": ""
       },
       "hinhAnh": [
-        {
-          "tenTep": "Văn bản hành chính.jpg",
-          "duongDan": "/anh_tulieu/Văn bản hành chính.jpg",
-          "duongDanToanTrang": "/anh_tulieu/Văn bản hành chính.jpg",
-          "duongDanCanCanh": "",
-          "chuThich": "Ảnh tư liệu nhóm 19 văn bằng, văn bản hành chính làng Trường Lưu",
-          "nguon": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
-          "laBanGiamKichThuoc": true
-        }
       ]
     },
     {
@@ -438,7 +429,7 @@
         "description": "Một trong 3 bức trướng bằng lụa thuộc bộ sưu tập Văn bản Hán Nôm làng Trường Lưu (UNESCO MOWCAP 2022), nội dung mừng thọ bà Phan Thị Trừu nhân dịp 80 tuổi, mang giá trị nghiên cứu văn hóa, gia đình và ghi nhận vị thế người phụ nữ xưa.",
         "publisher": "Tư liệu gia tộc tại làng Trường Lưu",
         "contributor": "GS.VS Nguyễn Huy Mỹ & Bảo tàng Hà Tĩnh phối hợp lập hồ sơ khoa học",
-        "date": "Trong khung niên đại bộ sưu tập 1689–1943 (năm cụ thể cần bổ sung khi đối chiếu ảnh trướng)",
+        "date": "1773 (tháng 7 âm lịch năm Cảnh Hưng thứ 34, Quý Tỵ)",
         "type": "Trướng lụa dệt hoặc thêu chữ Hán",
         "format": "Trướng lụa khổ lớn (thuộc nhóm 3 bức trướng kích thước 97×197 cm, 121×177 cm, 70×127 cm)",
         "identifier": "TL-HN-003",
@@ -466,8 +457,8 @@
         "ghiChuLienHe": "Cần bổ sung chính xác kích thước tương ứng trong 3 kích thước (97×197, 121×177, 70×127 cm) khi nạp ảnh"
       },
       "phienAm": {
-        "noiDung": "Chưa nạp phiên âm toàn văn chữ Hán thêu/viết trên bức trướng mừng thọ bà Phan Thị Trừu.",
-        "mucKiemChung": "Chưa kiểm chứng",
+        "noiDung": "Bát thập thọ mẫu tán ... Hoàng triều Cảnh Hưng tam thập tứ tải tuế thứ Quý Tỵ mạnh thu cốc đán). Toàn văn phần thân đang đối chiếu.",
+        "mucKiemChung": "Đang đối chiếu",
         "nguoiKiem": "",
         "ngayKiem": ""
       },
@@ -535,6 +526,422 @@
       },
       "dichNghia": {
         "noiDung": "Chưa nạp bản dịch nghĩa chi tiết hai bức trướng.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-005",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Sắc phong",
+      "dublinCore": {
+        "title": "Sắc phong thời Hậu Lê ban cho Giám sát ngự sử Nguyễn Công Ban (năm 1693)",
+        "creator": "Triều đình Hậu Lê (triều vua Lê Hy Tông, niên hiệu Chính Hòa)",
+        "subject": "Sắc phong; Nguyễn Công Ban; Giám sát ngự sử; Thái Sơn Nam; Dòng họ Nguyễn Huy",
+        "description": "Đạo sắc phong năm 1693 thuộc nhóm 22 sắc phong thời Lê Trung hưng (1689–1783) trong bộ 26 sắc phong gốc làng Trường Lưu, ban cho Nguyễn Công Ban (1630–1711), hậu duệ đời thứ 7 dòng họ Nguyễn ở Trường Lưu, đỗ Hương cống khoa Sĩ vọng (1665), giữ chức Giám sát ngự sử, tước Thái Sơn Nam.",
+        "publisher": "Triều đình Hậu Lê",
+        "contributor": "Dòng họ Nguyễn Huy làng Trường Lưu; Bảo tàng Hà Tĩnh",
+        "date": "1693 (niên hiệu Chính Hòa, triều vua Lê Hy Tông)",
+        "type": "Sắc phong viết tay thể chữ chân thư trên giấy truyền thống",
+        "format": "1 đạo sắc phong độc bản khổ lớn, có dấu triện 'Sắc mệnh chi bảo'",
+        "identifier": "TL-HN-005",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), Cục Di sản văn hóa & TTXVN",
+        "language": "Chữ Hán",
+        "relation": "Tách từ Nhóm 26 đạo sắc phong gốc (TL-HN-001)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Cuối thế kỷ XVII",
+        "rights": "Thuộc quyền bảo quản của dòng họ Nguyễn Huy làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 26 sắc phong (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản trên giấy cổ viết chữ chân thư, bảo quản tại dòng họ Nguyễn Huy",
+        "soDangKy": "Chưa cập nhật mã cá biệt trong sổ kiểm kê chi tiết",
+        "nguoiChoPhepCongBo": "Đại diện dòng họ Nguyễn Huy & hồ sơ công bố UNESCO MOWCAP 2022",
+        "phamViDuocPhep": "Công bố thông tin thư mục và tiểu sử danh nhân liên quan",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách lẻ và toàn văn nguyên bản đạo sắc năm 1693",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện dòng họ Nguyễn Huy làng Trường Lưu",
+        "vaiTro": "Chủ thể bảo quản di sản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể bổ sung ảnh chụp tách riêng đạo sắc năm 1693 khi hoàn thiện số hóa từng tờ"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp toàn văn chữ Hán của đạo sắc năm 1693 ban cho Nguyễn Công Ban.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng câu đạo sắc năm 1693; nội dung ghi nhận sắc phong ban cho Giám sát ngự sử Nguyễn Công Ban (tước Thái Sơn Nam).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-006",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Sắc phong",
+      "dublinCore": {
+        "title": "Các sắc phong thời Lê Trung hưng niên hiệu Chính Hòa tại làng Trường Lưu (từ năm 1689)",
+        "creator": "Triều đình Hậu Lê (triều vua Lê Hy Tông)",
+        "subject": "Sắc phong thời Lê; Niên hiệu Chính Hòa; Lê Hy Tông; Phong chức tước; Ban mỹ tự",
+        "description": "Phân nhóm các đạo sắc phong sớm nhất (từ mốc 1689) trong tổng số 22 sắc phong thời Lê Trung hưng (1689–1783) thuộc bộ 26 sắc phong làng Trường Lưu, viết tay bằng chữ chân thư trên giấy truyền thống có triện dấu 'Sắc mệnh chi bảo' nhằm phong chức, ban tước và tôn vinh các nhân vật, dòng họ địa phương.",
+        "publisher": "Triều đình Hậu Lê",
+        "contributor": "Các dòng họ tại làng Trường Lưu; GS.VS Nguyễn Huy Mỹ & nhóm lập hồ sơ",
+        "date": "1689–1705 (niên hiệu Chính Hòa) trong khung 22 sắc phong thời Lê (1689–1783)",
+        "type": "Sắc phong gốc thời Lê Trung hưng",
+        "format": "Sắc phong viết chữ chân thư trên giấy truyền thống có hình rồng và ấn triện",
+        "identifier": "TL-HN-006",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), Cục Di sản văn hóa & Cổng TTĐT Hà Tĩnh",
+        "language": "Chữ Hán",
+        "relation": "Tách từ Nhóm 26 đạo sắc phong gốc (TL-HN-001); Sắc phong Nguyễn Công Ban 1693 (TL-HN-005)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Cuối thế kỷ XVII – thế kỷ XVIII",
+        "rights": "Thuộc quyền bảo quản của các dòng họ Nguyễn Huy, Trần Văn, họ Hoàng tại làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Các nhà thờ họ và gia đình được ban sắc tại làng Trường Lưu",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 26 sắc phong (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản trên giấy truyền thống thời Lê Trung hưng",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng đạo sắc",
+        "nguoiChoPhepCongBo": "Các dòng họ tại Trường Lưu & hồ sơ công bố UNESCO MOWCAP 2022",
+        "phamViDuocPhep": "Công bố thông tin niên đại khởi đầu (1689) và đặc điểm hình thức sắc phong thời Lê",
+        "phanKhongCongBo": "Chưa công bố ảnh tách lẻ từng sắc phong niên hiệu Chính Hòa",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể lưu giữ và bảo quản sắc phong qua các thế hệ",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Phối hợp chuyên môn cùng Bảo tàng Hà Tĩnh và GS.VS Nguyễn Huy Mỹ"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm toàn văn từng đạo sắc thuộc phân nhóm thời Lê Trung hưng (1689–1783).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch từng đạo sắc; nội dung phản ánh việc phong chức, ban tước, ban mỹ tự từ mốc năm 1689.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-007",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Sắc phong",
+      "dublinCore": {
+        "title": "Sắc phong tôn vinh phụ nữ (bà Nguyễn Thị Hộ — Đệ nhất Thiên thai quý nhân, Thạch Sơn thiên mẫu)",
+        "creator": "Triều đình phong kiến Việt Nam",
+        "subject": "Sắc phong phụ nữ; Nguyễn Thị Hộ; Bình đẳng giới; Văn hóa gia đình; Làng Trường Lưu",
+        "description": "Tư liệu sắc phong trong bộ 26 sắc phong làng Trường Lưu ghi nhận việc tôn vinh đức hạnh và công lao của phụ nữ trong lịch sử – văn hóa địa phương, tiêu biểu với danh hiệu 'Đệ nhất Thiên thai quý nhân, Thạch Sơn thiên mẫu' gắn với nhân vật Nguyễn Thị Hộ; từng được UNESCO chọn giới thiệu về vai trò phụ nữ trong lịch sử.",
+        "publisher": "Triều đình phong kiến Việt Nam",
+        "contributor": "Các dòng họ tại làng Trường Lưu; Bảo tàng Hà Tĩnh",
+        "date": "Trong khung niên đại bộ sưu tập 1689–1943",
+        "type": "Sắc phong tôn vinh nhân vật nữ trên giấy dó / giấy cổ",
+        "format": "Sắc phong độc bản viết tay chữ Hán",
+        "identifier": "TL-HN-007",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & TTXVN",
+        "language": "Chữ Hán",
+        "relation": "Tách từ Nhóm 26 đạo sắc phong gốc (TL-HN-001); Bức trướng mừng thọ bà Phan Thị Trừu (TL-HN-003)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "rights": "Thuộc quyền bảo quản của dòng họ lưu giữ tại làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Dòng họ tại làng Trường Lưu",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Nhà thờ dòng họ tại làng Trường Lưu, Can Lộc, Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 26 sắc phong (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản bảo quản trong bộ 48 tư liệu Hán Nôm làng Trường Lưu",
+        "soDangKy": "Chưa cập nhật số đăng ký cá biệt",
+        "nguoiChoPhepCongBo": "Thông tin công bố từ hồ sơ UNESCO MOWCAP 2022",
+        "phamViDuocPhep": "Công bố thông tin thư mục và giá trị tôn vinh phụ nữ trong di sản",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách lẻ và toàn văn nguyên bản sắc phong",
+        "mucKiemChung": "Đang đối chiếu"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản di sản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Cần đối chiếu trực tiếp năm ban sắc cụ thể khi bổ sung ảnh số hóa"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp toàn văn chữ Hán; danh hiệu ghi nhận theo hồ sơ công bố: Đệ nhất Thiên thai quý nhân, Thạch Sơn thiên mẫu (Nguyễn Thị Hộ).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng câu của đạo sắc phong tôn vinh bà Nguyễn Thị Hộ.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-008",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Sắc phong",
+      "dublinCore": {
+        "title": "Nhóm 4 sắc phong thời Nguyễn tại làng Trường Lưu (đến năm 1943)",
+        "creator": "Triều đình nhà Nguyễn",
+        "subject": "Sắc phong thời Nguyễn; Biển sắc tứ; Phong thần; Ban mỹ tự; Năm 1943",
+        "description": "Phân nhóm 4 sắc phong và biển sắc tứ bằng gỗ dưới triều nhà Nguyễn trong tổng số 26 sắc phong gốc của bộ sưu tập Văn bản Hán Nôm làng Trường Lưu, tiếp nối truyền thống phong thần, ban mỹ tự, ban tước và khép lại khung niên đại bộ sưu tập tại mốc năm 1943.",
+        "publisher": "Triều đình nhà Nguyễn",
+        "contributor": "Các dòng họ Nguyễn Huy, Trần Văn, họ Hoàng tại làng Trường Lưu",
+        "date": "Thời Nguyễn (kéo dài đến năm 1943)",
+        "type": "Sắc phong thời Nguyễn trên giấy truyền thống và biển sắc tứ bằng gỗ",
+        "format": "4 đạo sắc phong thời Nguyễn",
+        "identifier": "TL-HN-008",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & Cổng TTĐT tỉnh Hà Tĩnh",
+        "language": "Chữ Hán",
+        "relation": "Tách từ Nhóm 26 đạo sắc phong gốc (TL-HN-001)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; Thế kỷ XIX – 1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ Nguyễn Huy, Trần Văn, họ Hoàng"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Các nhà thờ họ tại làng Trường Lưu, Can Lộc, Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 26 sắc phong (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Bảo quản cùng khối sắc phong và biển gỗ trong bộ 48 tư liệu UNESCO",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng sắc phong / biển gỗ",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & hồ sơ UNESCO MOWCAP 2022",
+        "phamViDuocPhep": "Công bố thông tin phân nhóm thời Nguyễn (4 đơn vị tư liệu)",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách riêng từng tờ sắc và biển sắc tứ",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản di sản",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể tách chi tiết 4 đơn vị riêng lẻ khi bổ sung ảnh và niên hiệu từng bản"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm chi tiết từng sắc phong và biển sắc tứ thuộc nhóm 4 tư liệu thời Nguyễn.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa chi tiết các sắc phong và biển sắc tứ thời Nguyễn.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-009",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Văn bản hành chính",
+      "dublinCore": {
+        "title": "Nhóm văn bằng (Bằng) chính quyền thời Nguyễn cấp cho người dân làng Trường Lưu (từ 1803)",
+        "creator": "Chính quyền địa phương các cấp dưới thời nhà Nguyễn",
+        "subject": "Văn bằng; Bằng cấp thời Nguyễn; Triều Gia Long; Hành chính làng xã; Trường Lưu",
+        "description": "Phân nhóm văn bản thể thức 'Bằng' tách từ 19 văn bản hành chính thời Nguyễn (1803–1943) trong bộ 48 tư liệu Hán Nôm làng Trường Lưu, ghi nhận việc chính quyền cấp văn bằng chứng nhận, giao nhiệm vụ hoặc xác nhận tư cách cho chức sắc và người dân địa phương bắt đầu từ mốc năm 1803 dưới triều Gia Long.",
+        "publisher": "Chính quyền địa phương các cấp thời nhà Nguyễn",
+        "contributor": "Các dòng họ tại làng Trường Lưu; GS.VS Nguyễn Huy Mỹ sưu tầm, lập hồ sơ",
+        "date": "1803–1943 (khởi đầu từ triều vua Gia Long)",
+        "type": "Văn bằng hành chính viết tay chữ Hán / chữ Nôm",
+        "format": "Văn bản giấy dó cổ (thuộc nhóm 19 văn bản hành chính)",
+        "identifier": "TL-HN-009",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), Cục Di sản văn hóa & TTXVN",
+        "language": "Chữ Hán và chữ Nôm",
+        "relation": "Tách từ Nhóm 19 văn bằng, văn bản hành chính (TL-HN-002)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; 1803–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 19 văn bản hành chính (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản trên giấy dó cổ",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng tờ bằng",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
+        "phamViDuocPhep": "Công bố thông tin phân loại thể thức văn bằng hành chính",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách riêng từng văn bằng",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản tư liệu dòng họ và làng xã",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Cần bổ sung ảnh chụp tách riêng và tên người thụ hưởng từng văn bằng"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm từng văn bản thể thức 'Bằng' trong nhóm 19 văn bản hành chính.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng văn bản thể thức 'Bằng' (1803–1943).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-010",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Văn bản hành chính",
+      "dublinCore": {
+        "title": "Nhóm công văn điều hành (Sức, Trát) gửi xã Trường Lưu thời Nguyễn",
+        "creator": "Chính quyền địa phương các cấp dưới thời nhà Nguyễn",
+        "subject": "Văn bản Sức; Văn bản Trát; Quản lý hành chính cơ sở; Thời Nguyễn; Làng Trường Lưu",
+        "description": "Phân nhóm văn bản thể thức 'Sức' và 'Trát' tách từ 19 văn bản hành chính thời Nguyễn (1803–1943) tại làng Trường Lưu, phản ánh hình thức truyền đạt chỉ thị, công vụ từ chính quyền cấp trên xuống lý dịch, chức sắc và người dân địa phương.",
+        "publisher": "Chính quyền địa phương các cấp thời nhà Nguyễn",
+        "contributor": "Các dòng họ tại làng Trường Lưu; GS.VS Nguyễn Huy Mỹ",
+        "date": "1803–1943 (triều Nguyễn)",
+        "type": "Công văn hành chính viết tay chữ Hán / chữ Nôm",
+        "format": "Văn bản trên giấy dó cổ (thuộc nhóm 19 văn bản hành chính)",
+        "identifier": "TL-HN-010",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), TTXVN & Báo Hà Tĩnh",
+        "language": "Chữ Hán và chữ Nôm",
+        "relation": "Tách từ Nhóm 19 văn bằng, văn bản hành chính (TL-HN-002)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; 1803–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 19 văn bản hành chính (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản trên giấy dó cổ",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng tờ sức, trát",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
+        "phamViDuocPhep": "Công bố thông tin thể thức văn thư điều hành hành chính",
+        "phanKhongCongBo": "Chưa công bố ảnh tách lẻ và toàn văn từng văn bản",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản tư liệu",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Cần đối chiếu ngày ban hành và cơ quan ký phát từng tờ khi số hóa chi tiết"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm chi tiết các văn bản thể thức 'Sức', 'Trát' trong nhóm 19 văn bản.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa các văn bản thể thức 'Sức', 'Trát' (1803–1943).",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-011",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Văn bản hành chính",
+      "dublinCore": {
+        "title": "Nhóm văn bản thỉnh trình (Bẩm, Trình, Tấu, Tờ khai) tại làng Trường Lưu thời Nguyễn",
+        "creator": "Người dân, chức sắc và các dòng họ làng Trường Lưu trình chính quyền",
+        "subject": "Bẩm; Trình; Tấu; Tờ khai; Đời sống làng xã; Văn bản Hán Nôm Trường Lưu",
+        "description": "Phân nhóm văn bản thể thức 'Bẩm', 'Trình', 'Tấu' và 'Tờ khai' tách từ 19 văn bản hành chính chữ Hán và chữ Nôm (1803–1943), phản ánh trình tự báo cáo, thỉnh cầu và giao dịch hành chính giữa người dân, chức sắc làng Trường Lưu với chính quyền các cấp thời Nguyễn.",
+        "publisher": "Tư liệu hành chính lưu trữ tại cộng đồng làng Trường Lưu",
+        "contributor": "Các dòng họ tại làng Trường Lưu; GS.VS Nguyễn Huy Mỹ",
+        "date": "1803–1943 (triều Nguyễn)",
+        "type": "Văn bản hành chính thỉnh trình viết tay",
+        "format": "Văn bản trên giấy dó cổ (thuộc nhóm 19 văn bản hành chính)",
+        "identifier": "TL-HN-011",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022), Cục Di sản văn hóa & Báo Hà Tĩnh",
+        "language": "Chữ Hán và chữ Nôm",
+        "relation": "Tách từ Nhóm 19 văn bằng, văn bản hành chính (TL-HN-002)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; 1803–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 19 văn bản hành chính (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Độc bản trên giấy dó cổ",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng tờ bẩm, trình, tấu, tờ khai",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
+        "phamViDuocPhep": "Công bố thông tin thể thức giao dịch hành chính cấp cơ sở",
+        "phanKhongCongBo": "Chưa công bố ảnh tách lẻ và toàn văn từng văn bản",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản tư liệu",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể bổ sung trích yếu từng tờ bẩm, trình, tấu khi có bản phiên âm kiểm chứng"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm chi tiết các văn bản thể thức 'Bẩm', 'Trình', 'Tấu', 'Tờ khai'.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng văn bản thỉnh trình trong nhóm 19 văn bản.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "hinhAnh": []
+    },
+    {
+      "maBanGhi": "TL-HN-012",
+      "khoiDiSan": "Văn bản Hán Nôm làng Trường Lưu",
+      "loaiTuLieu": "Văn bản hành chính",
+      "dublinCore": {
+        "title": "Nhóm văn bản sao lục hành chính (Sao lục) bảo quản tại các dòng họ làng Trường Lưu",
+        "creator": "Cơ quan hành chính địa phương thời Nguyễn và người sao lục lưu giữ tại làng Trường Lưu",
+        "subject": "Sao lục; Lưu trữ văn thư; Dòng họ Trường Lưu; Thời Nguyễn",
+        "description": "Phân nhóm văn bản thể thức 'Sao lục' tách từ 19 văn bản hành chính thời Nguyễn (1803–1943) trong bộ 48 tư liệu Hán Nôm làng Trường Lưu, cho thấy tập quán sao lục và lưu giữ bản sao công văn, chứng từ hành chính tại các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng.",
+        "publisher": "Chính quyền địa phương thời Nguyễn / Tư liệu sao lưu tại Trường Lưu",
+        "contributor": "Các dòng họ tại làng Trường Lưu; GS.VS Nguyễn Huy Mỹ",
+        "date": "1803–1943 (triều Nguyễn)",
+        "type": "Văn bản sao lục hành chính viết tay chữ Hán / chữ Nôm",
+        "format": "Văn bản giấy dó cổ (thuộc nhóm 19 văn bản hành chính)",
+        "identifier": "TL-HN-012",
+        "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & Cục Di sản văn hóa",
+        "language": "Chữ Hán và chữ Nôm",
+        "relation": "Tách từ Nhóm 19 văn bằng, văn bản hành chính (TL-HN-002)",
+        "coverage": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh; 1803–1943",
+        "rights": "Thuộc quyền bảo quản của các dòng họ làng Trường Lưu"
+      },
+      "boSung": {
+        "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
+        "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 19 văn bản hành chính (chưa đính kèm ảnh tách lẻ)",
+        "tinhTrangBanGoc": "Văn bản cổ trên giấy dó thuộc bộ 48 tư liệu UNESCO MOWCAP 2022",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng bản sao lục",
+        "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
+        "phamViDuocPhep": "Công bố thông tin kiểm kê thể thức sao lục hành chính",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách lẻ và toàn văn từng bản sao lục",
+        "mucKiemChung": "Đã kiểm chứng"
+      },
+      "nguoiDangLuuGiu": {
+        "hoTen": "Đại diện các dòng họ Nguyễn Huy, Trần Văn và họ Hoàng",
+        "vaiTro": "Chủ thể bảo quản tư liệu dòng họ và làng xã",
+        "donViHoacDiaChi": "Làng Trường Lưu, xã Kim Song Trường, huyện Can Lộc, tỉnh Hà Tĩnh",
+        "ghiChuLienHe": "Có thể bổ sung ảnh chụp từng bản sao lục khi hoàn thiện số hóa cá biệt"
+      },
+      "phienAm": {
+        "noiDung": "Chưa nạp phiên âm chi tiết các văn bản thể thức 'Sao lục' trong nhóm 19 văn bản hành chính.",
+        "mucKiemChung": "Chưa kiểm chứng",
+        "nguoiKiem": "",
+        "ngayKiem": ""
+      },
+      "dichNghia": {
+        "noiDung": "Chưa nạp bản dịch nghĩa từng văn bản sao lục (1803–1943).",
         "mucKiemChung": "Chưa kiểm chứng",
         "nguoiKiem": "",
         "ngayKiem": ""
