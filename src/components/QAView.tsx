@@ -167,7 +167,7 @@ export function QAView({
           className="bg-[#FEF2F2] border border-[#FECACA] text-[#991B1B] rounded-xl p-4 flex items-start gap-2.5 text-base"
         >
           <AlertCircle className="w-5 h-5 shrink-0 mt-0.5" aria-hidden="true" />
-          <span>{errorMsg}</span>
+          <span>Không thể thực hiện truy vấn hỏi đáp lúc này. Vui lòng thử lại sau.</span>
         </div>
       )}
 
@@ -194,11 +194,10 @@ export function QAView({
               </div>
 
               <div
-                className={`rounded-lg p-4 text-base leading-relaxed whitespace-pre-wrap ${
-                  item.response.coTuLieu
+                className={`rounded-lg p-4 text-base leading-relaxed whitespace-pre-wrap ${item.response.coTuLieu
                     ? 'bg-[#FAF8F4] border border-[#E2DDD3] text-[#1C1917]'
                     : 'bg-[#FEF3C7] border border-[#FDE68A] text-[#92400E]'
-                }`}
+                  }`}
               >
                 {item.response.cauTraLoi}
               </div>
