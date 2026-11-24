@@ -79,7 +79,7 @@
       "boSung": {
         "noiLuuGiuHienNay": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
         "noiLuuGiuTaiThoiDiemTuLieu": "Thư viện Phúc Giang, làng Trường Lưu (tổng Lai Thạch, huyện La Sơn xưa)",
-        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa (chưa đính kèm ảnh chụp giảm kích thước)",
         "tinhTrangBanGoc": "Còn bảo tồn trong khối 379–383 bản gỗ thị tại Trường Lưu",
         "soDangKy": "Chưa cập nhật số kiểm kê từng ván (cần đối chiếu sổ kiểm kê hiện vật)",
         "nguoiChoPhepCongBo": "Thông tin công bố công khai từ hồ sơ UNESCO MOWCAP & dòng họ Nguyễn Huy",
@@ -106,15 +106,6 @@
         "ngayKiem": ""
       },
       "hinhAnh": [
-        {
-          "tenTep": "Mộc bản.jpg",
-          "duongDan": "/anh_tulieu/Mộc bản.jpg",
-          "duongDanToanTrang": "/anh_tulieu/Mộc bản.jpg",
-          "duongDanCanCanh": "",
-          "chuThich": "Ảnh tư liệu khối Mộc bản trường học Phúc Giang",
-          "nguon": "Trường học Phúc Giang / Nhà thờ dòng họ Nguyễn Huy, làng Trường Lưu",
-          "laBanGiamKichThuoc": true
-        }
       ]
     },
     {
@@ -123,11 +114,11 @@
       "loaiTuLieu": "Mộc bản",
       "dublinCore": {
         "title": "Mộc bản bộ sách Ngũ kinh toản yếu đại toàn",
-        "creator": "Nguyễn Huy Oánh cùng các nhà giáo dòng họ Nguyễn Huy; Phan Huy Cận viết lời tựa",
+        "creator": "Nguyễn Huy Oánh cùng các nhà giáo dòng họ Nguyễn Huy",
         "subject": "Ngũ kinh; Kinh Dịch; Kinh Thư; Kinh Thi; Kinh Lễ; Kinh Xuân Thu; Giáo dục thế kỷ XVIII",
         "description": "Bộ mộc bản khắc in phần san định và tóm lược từ Ngũ kinh đại toàn (gồm Kinh Dịch, Kinh Thư, Kinh Thi, Kinh Lễ, Kinh Xuân Thu), có lời tựa viết tháng xuân năm Cảnh Hưng thứ 19 (1758) gắn với Thám hoa Nguyễn Huy Oánh.",
         "publisher": "Trường học Phúc Giang / Thư viện Phúc Giang",
-        "contributor": "Phan Huy Cận (viết tựa); Thợ khắc ván Trường Lưu",
+        "contributor": "Thợ khắc ván Trường Lưu",
         "date": "1758 (niên hiệu Cảnh Hưng)",
         "type": "Mộc bản khắc chữ Hán ngược",
         "format": "Ván khắc gỗ thị thuộc khối Mộc bản Trường học Phúc Giang",
@@ -259,7 +250,7 @@
         "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2018) & Bộ Văn hóa, Thể thao và Du lịch",
         "language": "Chữ Hán",
         "relation": "Khối Văn bản Hán Nôm làng Trường Lưu; Tư liệu đi sứ của Chánh sứ Nguyễn Huy Oánh (1766–1767)",
-        "coverage": "Lộ trình từ biên giới Việt – Trung qua các châu, phủ, huyện, dịch trạm tới Bắc Kinh; Thế kỷ XVIII – XIX",
+        "coverage": "Lộ trình từ Thăng Long (Hà Nội) qua các châu, phủ, huyện, dịch trạm tới Bắc Kinh; Thế kỷ XVIII – XIX",
         "rights": "Thuộc sở hữu và bảo quản của hậu duệ dòng họ Nguyễn Huy tại làng Trường Lưu"
       },
       "boSung": {
@@ -389,7 +380,7 @@
       "boSung": {
         "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
         "noiLuuGiuTaiThoiDiemTuLieu": "Làng Trường Lưu, huyện Can Lộc, tỉnh Hà Tĩnh",
-        "loaiBanDangHienThi": "Bản ảnh chụp giảm kích thước kèm hồ sơ mô tả",
+        "loaiBanDangHienThi": "Hồ sơ mô tả số hóa (chưa đính kèm ảnh chụp giảm kích thước)",
         "tinhTrangBanGoc": "Độc bản trên giấy dó cổ",
         "soDangKy": "Chưa cập nhật mã cá biệt từng văn bản trong nhóm 19 văn bản",
         "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & nhóm lập hồ sơ UNESCO 2022",
@@ -457,7 +448,7 @@
         "ghiChuLienHe": "Cần bổ sung chính xác kích thước tương ứng trong 3 kích thước (97×197, 121×177, 70×127 cm) khi nạp ảnh"
       },
       "phienAm": {
-        "noiDung": "Bát thập thọ mẫu tán ... Hoàng triều Cảnh Hưng tam thập tứ tải tuế thứ Quý Tỵ mạnh thu cốc đán). Toàn văn phần thân đang đối chiếu.",
+        "noiDung": "Bát thập thọ mẫu tán ... Hoàng triều Cảnh Hưng tam thập tứ tải tuế thứ Quý Tỵ mạnh thu cốc đán. Toàn văn phần thân đang đối chiếu.",
         "mucKiemChung": "Đang đối chiếu",
         "nguoiKiem": "",
         "ngayKiem": ""
@@ -695,12 +686,12 @@
       "dublinCore": {
         "title": "Nhóm 4 sắc phong thời Nguyễn tại làng Trường Lưu (đến năm 1943)",
         "creator": "Triều đình nhà Nguyễn",
-        "subject": "Sắc phong thời Nguyễn; Biển sắc tứ; Phong thần; Ban mỹ tự; Năm 1943",
-        "description": "Phân nhóm 4 sắc phong và biển sắc tứ bằng gỗ dưới triều nhà Nguyễn trong tổng số 26 sắc phong gốc của bộ sưu tập Văn bản Hán Nôm làng Trường Lưu, tiếp nối truyền thống phong thần, ban mỹ tự, ban tước và khép lại khung niên đại bộ sưu tập tại mốc năm 1943.",
+        "subject": "Sắc phong thời Nguyễn; Phong thần; Ban mỹ tự; Năm 1943",
+        "description": "Phân nhóm 4 đạo sắc phong dưới triều nhà Nguyễn trong tổng số 26 sắc phong gốc của bộ sưu tập Văn bản Hán Nôm làng Trường Lưu, tiếp nối truyền thống phong thần, ban mỹ tự, ban tước và khép lại khung niên đại bộ sưu tập tại mốc năm 1943.",
         "publisher": "Triều đình nhà Nguyễn",
         "contributor": "Các dòng họ Nguyễn Huy, Trần Văn, họ Hoàng tại làng Trường Lưu",
         "date": "Thời Nguyễn (kéo dài đến năm 1943)",
-        "type": "Sắc phong thời Nguyễn trên giấy truyền thống và biển sắc tứ bằng gỗ",
+        "type": "Sắc phong gốc thời Nguyễn trên giấy truyền thống",
         "format": "4 đạo sắc phong thời Nguyễn",
         "identifier": "TL-HN-008",
         "source": "Hồ sơ Di sản Tư liệu UNESCO MOWCAP (2022) & Cổng TTĐT tỉnh Hà Tĩnh",
@@ -713,11 +704,11 @@
         "noiLuuGiuHienNay": "Các dòng họ tại làng Trường Lưu (Nguyễn Huy, Trần Văn, Hoàng)",
         "noiLuuGiuTaiThoiDiemTuLieu": "Các nhà thờ họ tại làng Trường Lưu, Can Lộc, Hà Tĩnh",
         "loaiBanDangHienThi": "Hồ sơ mô tả số hóa tách từ nhóm 26 sắc phong (chưa đính kèm ảnh tách lẻ)",
-        "tinhTrangBanGoc": "Bảo quản cùng khối sắc phong và biển gỗ trong bộ 48 tư liệu UNESCO",
-        "soDangKy": "Chưa cập nhật mã cá biệt từng sắc phong / biển gỗ",
+        "tinhTrangBanGoc": "Bảo quản cùng khối sắc phong trong bộ 48 tư liệu UNESCO",
+        "soDangKy": "Chưa cập nhật mã cá biệt từng đạo sắc phong",
         "nguoiChoPhepCongBo": "Đại diện các dòng họ làng Trường Lưu & hồ sơ UNESCO MOWCAP 2022",
         "phamViDuocPhep": "Công bố thông tin phân nhóm thời Nguyễn (4 đơn vị tư liệu)",
-        "phanKhongCongBo": "Chưa công bố ảnh chụp tách riêng từng tờ sắc và biển sắc tứ",
+        "phanKhongCongBo": "Chưa công bố ảnh chụp tách riêng từng đạo sắc phong",
         "mucKiemChung": "Đã kiểm chứng"
       },
       "nguoiDangLuuGiu": {
@@ -727,13 +718,13 @@
         "ghiChuLienHe": "Có thể tách chi tiết 4 đơn vị riêng lẻ khi bổ sung ảnh và niên hiệu từng bản"
       },
       "phienAm": {
-        "noiDung": "Chưa nạp phiên âm chi tiết từng sắc phong và biển sắc tứ thuộc nhóm 4 tư liệu thời Nguyễn.",
+        "noiDung": "Chưa nạp phiên âm chi tiết từng đạo sắc phong thuộc nhóm 4 sắc phong thời Nguyễn.",
         "mucKiemChung": "Chưa kiểm chứng",
         "nguoiKiem": "",
         "ngayKiem": ""
       },
       "dichNghia": {
-        "noiDung": "Chưa nạp bản dịch nghĩa chi tiết các sắc phong và biển sắc tứ thời Nguyễn.",
+        "noiDung": "Chưa nạp bản dịch nghĩa chi tiết 4 đạo sắc phong thời Nguyễn.",
         "mucKiemChung": "Chưa kiểm chứng",
         "nguoiKiem": "",
         "ngayKiem": ""
